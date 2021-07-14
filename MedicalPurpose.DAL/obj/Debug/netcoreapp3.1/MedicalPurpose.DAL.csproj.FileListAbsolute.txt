@@ -1,0 +1,12 @@
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\bin\Debug\netcoreapp3.1\MedicalPurpose.DAL.deps.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\bin\Debug\netcoreapp3.1\MedicalPurpose.DAL.runtimeconfig.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\bin\Debug\netcoreapp3.1\MedicalPurpose.DAL.runtimeconfig.dev.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\bin\Debug\netcoreapp3.1\MedicalPurpose.DAL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\bin\Debug\netcoreapp3.1\MedicalPurpose.DAL.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\obj\Debug\netcoreapp3.1\MedicalPurpose.DAL.AssemblyInfoInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\obj\Debug\netcoreapp3.1\MedicalPurpose.DAL.AssemblyInfo.cs
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\obj\Debug\netcoreapp3.1\MedicalPurpose.DAL.csproj.CoreCompileInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\obj\Debug\netcoreapp3.1\MedicalPurpose.DAL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\obj\Debug\netcoreapp3.1\MedicalPurpose.DAL.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\obj\Debug\netcoreapp3.1\MedicalPurpose.DAL.genruntimeconfig.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.DAL\obj\Debug\netcoreapp3.1\MedicalPurpose.DAL.csprojAssemblyReference.cache

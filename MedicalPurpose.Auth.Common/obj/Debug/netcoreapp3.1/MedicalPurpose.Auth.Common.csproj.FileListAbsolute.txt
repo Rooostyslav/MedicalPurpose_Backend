@@ -1,0 +1,9 @@
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.Auth.Common\bin\Debug\netcoreapp3.1\MedicalPurpose.Auth.Common.deps.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.Auth.Common\bin\Debug\netcoreapp3.1\MedicalPurpose.Auth.Common.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.Auth.Common\bin\Debug\netcoreapp3.1\MedicalPurpose.Auth.Common.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.Auth.Common\obj\Debug\netcoreapp3.1\MedicalPurpose.Auth.Common.AssemblyInfoInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.Auth.Common\obj\Debug\netcoreapp3.1\MedicalPurpose.Auth.Common.AssemblyInfo.cs
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.Auth.Common\obj\Debug\netcoreapp3.1\MedicalPurpose.Auth.Common.csproj.CoreCompileInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.Auth.Common\obj\Debug\netcoreapp3.1\MedicalPurpose.Auth.Common.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.Auth.Common\obj\Debug\netcoreapp3.1\MedicalPurpose.Auth.Common.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.Auth.Common\obj\Debug\netcoreapp3.1\MedicalPurpose.Auth.Common.csprojAssemblyReference.cache

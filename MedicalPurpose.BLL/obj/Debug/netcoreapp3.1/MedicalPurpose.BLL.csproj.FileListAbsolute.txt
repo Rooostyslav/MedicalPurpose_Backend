@@ -1,0 +1,12 @@
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\obj\Debug\netcoreapp3.1\MedicalPurpose.BLL.csprojAssemblyReference.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\obj\Debug\netcoreapp3.1\MedicalPurpose.BLL.AssemblyInfoInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\obj\Debug\netcoreapp3.1\MedicalPurpose.BLL.AssemblyInfo.cs
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\obj\Debug\netcoreapp3.1\MedicalPurpose.BLL.csproj.CoreCompileInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\bin\Debug\netcoreapp3.1\MedicalPurpose.BLL.deps.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\bin\Debug\netcoreapp3.1\MedicalPurpose.BLL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\bin\Debug\netcoreapp3.1\MedicalPurpose.BLL.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\bin\Debug\netcoreapp3.1\MedicalPurpose.DAL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\bin\Debug\netcoreapp3.1\MedicalPurpose.DAL.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\obj\Debug\netcoreapp3.1\MedicalPurpose.BLL.csproj.CopyComplete
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\obj\Debug\netcoreapp3.1\MedicalPurpose.BLL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\MedicalPurpose\MedicalPurpose.BLL\obj\Debug\netcoreapp3.1\MedicalPurpose.BLL.pdb
